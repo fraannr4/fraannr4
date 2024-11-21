@@ -7,6 +7,7 @@
 👋 Hola! Sóc Francesco, estudiant de Segon Any de Desenvolupament d’Aplicacions Web (DAW) amb una base sòlida en Administració de Sistemes Informàtics en Xarxa (ASIX). 💻
 
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+
 * **🔧 Què hi trobaràs aquí?**
 
   -Projectes de desenvolupament web: frontend, backend i aplicacions full stack.
