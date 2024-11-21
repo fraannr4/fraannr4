@@ -64,6 +64,14 @@
 </span>
 
 
+### ⚙️ &nbsp;GitHub estadístiques:
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fraannr4&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
 ## Xarxes Socials:
 
 
@@ -77,8 +85,3 @@
 		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/fran_romano4">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
 </div>
-
-### ⚙️ &nbsp;GitHub estadístiques:
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fraannr4&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
