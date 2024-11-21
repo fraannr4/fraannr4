@@ -1,16 +1,16 @@
 <h1 align="center">Hola! , Soc Francesco Romano <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<!--
-**fraannr4/fraannr4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hola! Sóc Francesco, estudiant de Segon Any de Desenvolupament d’Aplicacions Web (DAW) amb una base sòlida en Administració de Sistemes Informàtics en Xarxa (ASIX). 💻
 
-Here are some ideas to get you started:
+🔧 Què hi trobaràs aquí?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projectes de desenvolupament web: frontend, backend i aplicacions full stack.
+Scripts i eines per a l’administració de sistemes i xarxes.
+Experiments i projectes personals on exploro noves tecnologies.
+🌱 Actualment estic aprenent més sobre:
+
+Frameworks moderns.
+Administració de servidors i desplegament al núvol.
+💡 M’apassiona combinar el desenvolupament i la infraestructura per crear solucions completes i eficients.
+
+📫 No dubtis a contactar-me o a col·laborar en algun projecte! 🚀
