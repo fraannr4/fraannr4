@@ -25,9 +25,9 @@
 
 
 
-## My Skills Include
+## Les meves habilitats:
 
-<h4> Languages </h4>
+<h4> Llenguatges </h4>
 <span> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -42,12 +42,12 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </span>
 
-<h4> Databases </h4>
+<h4> Bases de Dades </h4>
 <span>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </span>
 
-<h4> Other Tools and Technologies </h4>
+<h4> Altres Eines i Tecnologies </h4>
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
