@@ -11,10 +11,10 @@
   -Scripts i eines per a l’administració de sistemes i xarxes.
   -Experiments i projectes personals on exploro noves tecnologies.
 
-**🌱 Actualment estic aprenent més sobre:**
+* **🌱 Actualment estic aprenent més sobre:**
   -Frameworks moderns.
   -Administració de servidors i desplegament al núvol.
 
 
-💡 M’apassiona combinar el desenvolupament i la infraestructura per crear solucions completes i eficients.
+* **💡 M’apassiona combinar el desenvolupament i la infraestructura per crear solucions completes i eficients.**
 
