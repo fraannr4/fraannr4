@@ -4,9 +4,10 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre mi***
 
+<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+
 👋 Hola! Sóc Francesco, estudiant de Segon Any de Desenvolupament d’Aplicacions Web (DAW) amb una base sòlida en Administració de Sistemes Informàtics en Xarxa (ASIX). 💻
 
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
 * **🔧 Què hi trobaràs aquí?**
 
