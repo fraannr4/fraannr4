@@ -6,7 +6,7 @@
 
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-Hola! Sóc Francesco, graduat en Desenvolupament d’Aplicacions Web (DAW) i Administració de Sistemes Informàtics en Xarxa (ASIX). 
+Hola! Sóc Francesco, graduat en Desenvolupament d'Aplicacions Web (DAW) i en Administració de Sistemes Informàtics en Xarxa (ASIX). Actualment, estudio Enginyeria Informàtica a la Universitat Oberta de Catalunya (UOC).
 
 
 * **🔧 Què hi trobaràs aquí?**
